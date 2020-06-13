@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="Button1_text">Конвертировать</string>
+    <string name="button2_text">Изменить</string>
+    <string name="textview1">0</string>
+    <string name="rub">Рубли</string>
+    <string name="dol">Доллары</string>
+    <string name="pound">Фунт</string>
+    <string name="griv">Гривна</string>
+    <string name="eu">Евро</string>
+
+</resources>
